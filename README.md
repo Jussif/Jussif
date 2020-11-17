@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Jussif from :bolivia:
+## Hi there 👋, I'm Jussif from :bo:
 ### Developer, Scientist, Python Enthusiastic & Armchair astronomer :star:
 
 - 🔭 I’m currently working on this page. 
