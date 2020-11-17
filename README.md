@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Jussif from Boliva. :grin:
-### Developer, Scientist, Python Enthusiastic & Armchair astronomer :star:
+### Developer :man_technologist:, Scientist :man_scientist:, Python Enthusiastic :snake: :male_detective: & Armchair astronomer :star: :sparkles:
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning WSL2, Docker, Database 
