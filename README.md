@@ -1,26 +1,20 @@
-### Hi there 👋
+### Hi there 👋, my name is Jussif
+#### Developer, Scientist & Python Enthusiastic
+![Developer, Scientist & Python Enthusiastic](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-- 🔭 I’m currently working on Characterization of the Vehicle to Vehicle (V2V) communication channel using Software Defined Radio (SDR).
-- 🌱 I’m currently improving my programming skills using Python and C++ languages. 
-- 👯 I’m looking to collaborate on open source projects. 
-- 🤔 I’m looking for help with Python and C++ languages.
-- 💬 Ask me about Python skills.
-- 📫 How to reach me: d
-- ⚡ Fun fact: Love astronomy!
--->
+I'm from Bolivia and 
 
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Python / C++ / Matlab
 
 - 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning WSL2, Docker, Database 
+- 👯 I’m looking to collaborate on Python open source project 
+- 🤔 I’m looking for help with Docker 
+- 💬 Ask me about Python skills 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jussif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jussif-abularach-arnez/)  
 
+![Profile views](https://gpvc.arturio.dev/Jussif)  
 
 
