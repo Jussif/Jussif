@@ -18,6 +18,13 @@
 ## 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jussif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jussif-abularach-arnez/)  
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Jussif's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+
+</details>
+
 ![Profile views](https://gpvc.arturio.dev/Jussif)  
 <img src="https://github.com/Jussif/Jussif/blob/main/temp.gif" width= 900/>
 <!-- <img align='center' src="https://github.com/Jussif/Jussif/blob/main/Star-Spaghettification-Black-Hole.gif" width= "700"/> -->
