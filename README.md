@@ -9,7 +9,8 @@
 - 🤔 I’m looking for help with Docker 
 - 💬 Ask me about Python skills 
 
-## Skills & Experience
+## Languages and Tools
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 * :pushpin: Visual studio Code
 * :pushpin: Python
 * :pushpin: Cplusplus
@@ -19,5 +20,5 @@
 
 ![Profile views](https://gpvc.arturio.dev/Jussif)  
 <img src="https://github.com/Jussif/Jussif/blob/main/temp.gif" width= 900/>
-<img align='center' src="https://github.com/Jussif/Jussif/blob/main/Star-Spaghettification-Black-Hole.gif" width= "700"/> 
+<!-- <img align='center' src="https://github.com/Jussif/Jussif/blob/main/Star-Spaghettification-Black-Hole.gif" width= "700"/> -->
 
