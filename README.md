@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jussif
 #### Developer, Scientist, Python Enthusiastic & Armchair astronomer
-![Developer, Scientist & Python Enthusiastic]
+
 I'm from Bolivia. 
 Skills: Python / C++ / Matlab
 
