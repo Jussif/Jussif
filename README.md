@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Jussif
-#### Developer, Scientist & Python Enthusiastic
+#### Developer, Scientist, Python Enthusiastic & Armchair astronomer
 ![Developer, Scientist & Python Enthusiastic](https://github.com/Jussif/Jussif/blob/main/15_Anniversary_Hubble_The%20Whirlpool%20Galaxy.jpg)
 
 I'm from Bolivia and 
