@@ -19,5 +19,5 @@
 
 ![Profile views](https://gpvc.arturio.dev/Jussif)  
 <img src="https://github.com/Jussif/Jussif/blob/main/temp.gif" width= 900/>
-<img align='center' src="https://github.com/Jussif/Jussif/blob/main/Star-Spaghettification-Black-Hole.gif" width= "700"/> 
+<img align='right' src="https://github.com/Jussif/Jussif/blob/main/Star-Spaghettification-Black-Hole.gif" width= "700"/> 
 
