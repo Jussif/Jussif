@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Jussif from Boliva. :grin:
+## Hi there 👋, I'm Jussif from Bolivia. :grin:
 ### PhD. Telecommunication Engineering :satellite: :man_student:
 ### Developer :man_technologist:, Scientist :man_scientist:, Python Enthusiastic :snake: :male_detective: Armchair astronomer :telescope::star: :sparkles: :rocket:
 <!-- <img align='right' src='https://github.com/Jussif/Jussif/blob/main/coding.jpeg' width='300' height='500'/> -->
