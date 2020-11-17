@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently improving my programming skills using Python and C++ languages. 
 - 👯 I’m looking to collaborate on open source projects. 
 - 🤔 I’m looking for help with Python and C++ languages.
-- 💬 Ask me about ...
+- 💬 Ask me about Python skills.
 - 📫 How to reach me: [Linkedin]
 - ⚡ Fun fact: Love astronomy!
 -->
