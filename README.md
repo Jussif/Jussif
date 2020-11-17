@@ -2,7 +2,6 @@
 ### PhD. Telecommunication Engineering :satellite: :man_student:
 ### Developer :man_technologist:, Scientist :man_scientist:, Python Enthusiastic :snake: :male_detective: Armchair astronomer :telescope::star: :sparkles: :rocket:
 <!-- <img align='right' src='https://github.com/Jussif/Jussif/blob/main/coding.jpeg' width='300' height='500'/> -->
-## 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning WSL2, Docker, Database 
 - 👯 I’m looking to collaborate on Python open source project 
