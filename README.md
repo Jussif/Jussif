@@ -1,5 +1,5 @@
-## Hi there 👋, my name is Jussif
-### Developer, Scientist, Python Enthusiastic & Armchair astronomer
+## Hi there 👋, I'm Jussif from :bolvia:
+### Developer, Scientist, Python Enthusiastic & Armchair astronomer :star:
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning WSL2, Docker, Database 
