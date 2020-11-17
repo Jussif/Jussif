@@ -10,5 +10,5 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jussif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jussif-abularach-arnez/)  
 
 ![Profile views](https://gpvc.arturio.dev/Jussif)  
-<img src="https://github.com/Jussif/Jussif/blob/main/15_Anniversary_Hubble_The%20Whirlpool%20Galaxy.jpg" width= "1000"> 
+<img src="https://github.com/Jussif/Jussif/blob/main/15_Anniversary_Hubble_The%20Whirlpool%20Galaxy.jpg" width= "700"> 
 
