@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects. 
 - 🤔 I’m looking for help with Python and C++ languages.
 - 💬 Ask me about Python skills.
-- 📫 How to reach me: [Linkedin]
+- 📫 How to reach me:
 - ⚡ Fun fact: Love astronomy!
 -->
