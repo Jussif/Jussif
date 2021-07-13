@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java, Android, WSL2, Docker contanier, Elasticsearch Database , Cisco Networking Academy learner
 - 👯 I’m looking to collaborate on Python and Software Defined Radio open source projects 
+- :nerd_face: I’m currently developing testbed set-up considering LTE 4G and NR 5G.  
 - 🤔 I’m looking for help with Java, Docker container and Elasticsearch Database
 - 💬 Ask me about Python skills 
 
