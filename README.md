@@ -27,7 +27,8 @@
 
 ## Contact me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jussif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jussif-abularach-arnez-60b64049/)  
-
+  
+![Profile views](https://gpvc.arturio.dev/Jussif)  
 <img src="https://github.com/Jussif/Jussif/blob/main/temp.gif" width= 900/>
 <!-- <img align='center' src="https://github.com/Jussif/Jussif/blob/main/Star-Spaghettification-Black-Hole.gif" width= "700"/> -->
 
